@@ -22,3 +22,6 @@
 1. Clone the repository:  
    ```sh
    git clone https://github.com/fabisiaak/Roll-a-Ball.git
+
+## 📄 License
+This project is licensed under the MIT License – feel free to modify and use it as needed.
